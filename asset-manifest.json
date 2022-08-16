@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/cinema-paradiso/static/js/main.fba15d9e.js",
+    "index.html": "/cinema-paradiso/index.html",
+    "main.fba15d9e.js.map": "/cinema-paradiso/static/js/main.fba15d9e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fba15d9e.js"
+  ]
+}
